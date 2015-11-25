@@ -1,0 +1,17 @@
+Project Name:,PADCAL,
+,,
+File,Encoder,DATE
+biggerTreeAndRoot.csv,ELRACELIS,mm-dd-yyyy
+mainTreeAndRoot.csv,ELRACELIS,mm-dd-yyyy
+cwd.csv,ELRACELIS,mm-dd-yyyy
+necromass.csv,ELRACELIS,mm-dd-yyyy
+understorey.csv,ELRACELIS,mm-dd-yyyy
+consumedFuel.csv,ELRACELIS,mm-dd-yyyy
+fugitiveEmission.csv,ELRACELIS,mm-dd-yyyy
+electricity.csv,ELRACELIS,mm-dd-yyyy
+airTravel.csv,ELRACELIS,mm-dd-yyyy
+iclei_results.csv,ELRACELIS,mm-dd-yyyy
+lpg.csv,ELRACELIS,mm-dd-yyyy
+powerRented.csv,ELRACELIS,mm-dd-yyyy
+forestFire.csv,ELRACELIS,mm-dd-yyyy
+soils.csv,ELRACELIS,mm-dd-yyyy

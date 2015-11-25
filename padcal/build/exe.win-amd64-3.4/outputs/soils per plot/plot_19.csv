@@ -1,0 +1,10 @@
+,low,,,,mid,,,,high,,,
+,BD g/cm3,Weight,Soil Density,Soil CO2,BD g/cm3,Weight,Soil Density,Soil CO2,BD g/cm3,Weight,Soil Density,Soil CO2
+0-10 cm,0.93,925.85,34.39,126.10,0.98,980.85,14.87,54.51,1.31,1306.78,22.93,84.06
+10-20 cm,0.93,925.85,24.77,90.82,0.98,980.85,11.92,43.70,1.31,1306.78,12.50,45.82
+20-30 cm,0.93,925.85,12.24,44.90,0.98,980.85,10.35,37.94,1.31,1306.78,8.60,31.55
+totalLowSoilDensity,71.40469547997556,totalLowSoilCO2,261.81721675991037
+totalMidSoilDensity,37.13329234892035,totalMidSoilCO2,136.1554052793746
+totalTopSoilDensity,44.02712379387859,totalTopSoilCO2,161.4327872442215
+averageSoilDensity,50.8550372075915
+averageSoilDensity,186.4684697611688

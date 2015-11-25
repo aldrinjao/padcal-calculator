@@ -1,0 +1,357 @@
+plot number,tree number,common name,dbh
+1,1,Benguet Pine,12
+1,2,Benguet Pine,5.4
+1,3,Benguet Pine,6.1
+1,4,Benguet Pine,21.7
+1,5,Benguet Pine,7.3
+1,6,Benguet Pine,13
+1,7,Alnus,5.6
+1,8,Alnus,5.5
+1,9,Alnus,5.1
+1,10,Alnus,5.4
+1,11,Alnus,8.8
+1,12,Alnus,6
+1,13,Alnus,7
+1,14,Alnus,6.5
+1,15,Benguet Pine,30
+2,1,Benguet Pine,12.5
+2,2,Benguet Pine,11.3
+2,3,Benguet Pine,7
+2,4,Benguet Pine,9.5
+2,5,Benguet Pine,9.9
+2,6,Alnus,8.5
+2,7,Alnus,7
+2,8,Alnus,7.5
+2,9,Alnus,8.3
+2,10,Benguet Pine,8
+3,1,Pidikan,7.4
+3,2,Salingsingan (FORKED),12
+3,3,Salingsingan (FORKED),10
+3,4,Salingsingan (FORKED),6
+3,5,Salingsingan (FORKED),6.4
+3,6,Benguet Pine,6.4
+4,1,Benguet Pine,27.9
+4,2,Benguet Pine,26.5
+4,3,Benguet Pine,18.5
+4,4,Benguet Pine,29.6
+5,1,Gmelina,10
+5,2,Peewee (forked),12.5
+5,3,Peewee (forked),11
+5,4,Peewee (forked),10
+6,1,Benguet Pine,27.8
+6,2,Benguet Pine,16.09
+6,3,Benguet Pine,29
+6,4,Benguet Pine,21.4
+6,5,Benguet Pine,21
+6,6,Benguet Pine,21.8
+6,7,Benguet Pine,30
+6,8,Benguet Pine,30
+6,9,Benguet Pine,30
+7,1,Benguet Pine (forked),28.5
+7,2,Benguet Pine,28.8
+7,3,Benguet Pine,28.9
+7,4,Benguet Pine,18.5
+7,5,Benguet Pine,20
+7,6,Benguet Pine,20.3
+7,7,Benguet Pine,21
+7,8,Benguet Pine,22
+7,9,Benguet Pine,20
+7,10,Benguet Pine (forked),28.5
+7,11,Benguet Pine,28.5
+7,12,Benguet Pine,27
+8,1,Benguet Pine,28.1
+8,2,Benguet Pine,9.4
+8,3,Pidikan (forked),10
+8,4,Pidikan (forked),10.7
+8,5,Pidikan (forked),14.2
+8,6,Alnus,13
+8,7,Benguet Pine,19.7
+8,8,Salingsigan,9.15
+9,1,Alnus (forked),9.6
+9,2,Alnus (forked),8.5
+9,3,Alnus (forked),7.3
+9,4,Alnus (forked),6.8
+9,5,Alnus (forked),8
+9,6,Benguet Pine,7.4
+10,1,Benguet Pine,20.79
+10,2,Benguet Pine,10.91
+10,3,Benguet Pine,5.3
+10,4,Benguet Pine,8.6
+10,5,Benguet Pine,30
+11,1,Benguet Pine,24.4
+11,2,Benguet Pine,6.6
+11,3,Benguet Pine,19.8
+11,4,Benguet Pine,14.7
+11,5,Benguet Pine,7.5
+11,6,Benguet Pine,17.7
+11,7,Benguet Pine,18.9
+11,8,Benguet Pine,7.9
+11,9,Benguet Pine,26.8
+11,10,Benguet Pine,24.9
+11,11,Benguet Pine,12
+11,12,Benguet Pine,27.4
+11,13,Benguet Pine,8.8
+11,14,Benguet Pine,10.45
+11,15,Benguet Pine,20.1
+11,16,Benguet Pine,30
+12,1,Gmelina Tree,16
+12,2,Narra Tree,6
+12,3,Gmelina Tree,5
+12,4,Alnus Tree,12
+12,5,Gmelina Tree,9
+12,6,Benguet Pine,30
+13,1,Alnus,10
+13,2,Benguet Pine,28.9
+13,3,Benguet Pine,14.2
+13,4,Benguet Pine,17.1
+13,5,Benguet Pine,30
+14,1,Benguet Pine,26.2
+14,2,Benguet Pine,21.6
+14,3,Benguet Pine,18
+14,4,Benguet Pine,17.6
+14,5,Benguet Pine,19
+14,6,Benguet Pine,25.7
+14,7,Benguet Pine,27.5
+14,8,Benguet Pine,26
+14,9,Benguet Pine,27.4
+14,10,Benguet Pine,18
+14,11,Benguet Pine,21.5
+14,12,Alnus,19.9
+14,13,Alnus,20.5
+14,14,Alnus,15.7
+14,15,Alnus,19.7
+14,16,Alnus,30
+15,1,Benguet Pine,17.7
+15,2,Benguet Pine,21.6
+15,3,Benguet Pine,23.3
+15,4,Benguet Pine,14.8
+15,5,Benguet Pine,23.7
+15,6,Benguet Pine,11.4
+15,7,Gmelina,5.1
+15,8,Gmelina,20.3
+15,9,Gmelina,12.7
+15,10,Gmelina,9.5
+15,11,Gmelina,7.4
+15,12,Gmelina,5.9
+15,13,Gmelina,5.2
+16,1,Gmelina,25.5
+16,2,Benguet Pine,46.4
+16,3,Caliandra,10
+16,4,Gmelina,21
+16,5,Caliandra,5.9
+16,6,Caliandra,5
+16,7,Caliandra,5
+16,8,Caliandra,5.9
+16,9,Caliandra,5.2
+16,10,Caliandra,10.4
+16,11,Caliandra,10.3
+16,12,Gmelina,18.5
+16,13,Caliandra,5
+16,14,Caliandra,5.5
+16,15,Caliandra,6.8
+16,16,Caliandra,6.6
+16,17,Caliandra,5.9
+17,1,Benguet Pine,10.5
+17,2,Gmelina,5.5
+18,1,Benguet Pine,29.8
+19,1,Gmelina,5.9
+19,2,Gmelina,5.6
+19,3,Gmelina,6.1
+20,0,,
+21,0,,
+22,0,,
+23,1,Benguet Pine,27.3
+23,2,Ipil-ipil,6.4
+23,3,Benguet Pine,27.3
+23,4,Alnus,5.1
+23,5,Alnus,6.1
+23,6,Alnus,6
+23,7,Alnus,9.5
+24,1,Benguet Pine,15
+24,2,Benguet Pine,7.8
+24,3,Benguet Pine,14.1
+24,4,Benguet Pine,21.2
+24,5,Benguet Pine,8.3
+24,6,Benguet Pine,13.7
+24,7,Benguet Pine,12.9
+24,8,Benguet Pine,10.8
+25,0,,
+26,1,Benguet Pine,21.7
+26,2,Benguet Pine,18.9
+26,3,Benguet Pine,17
+26,4,Benguet Pine,26.7
+26,5,Benguet Pine,16.2
+26,6,Benguet Pine,10.8
+26,7,Benguet Pine,20.7
+27,1,Benguet Pine,15
+27,2,Benguet Pine,21.6
+27,3,Benguet Pine,28.2
+27,4,Benguet Pine,23.7
+27,5,Benguet Pine,18.9
+27,6,Benguet Pine,27.8
+27,7,Benguet Pine,20.3
+27,8,Benguet Pine,18.8
+27,9,Benguet Pine,20.2
+28,1,Benguet Pine,9.5
+28,2,Benguet Pine,25.1
+28,3,Benguet Pine,23.1
+29,1,Alnus,24.6
+29,2,Alnus,19.4
+29,3,Gmelina,9.8
+29,4,Gmelina,28.4
+29,5,Gmelina,6.4
+29,6,Gmelina,20.6
+29,7,Gmelina,19.1
+29,8,Gmelina,21.6
+29,9,Gmelina,23.2
+29,10,Gmelina,19.7
+29,11,Gmelina,9.2
+29,12,Gmelina,22.4
+29,13,Gmelina,14
+29,14,Gmelina,9.2
+30,1,Alnus,20.6
+30,2,Alnus,23.7
+30,3,Alnus,16.4
+30,4,Gmelina,10.9
+30,5,Caliandra,8.4
+30,6,Caliandra,11.8
+30,7,Caliandra,7.3
+30,8,Caliandra,11.7
+30,9,Caliandra,8.6
+30,10,Caliandra,7.1
+30,11,Caliandra,5.3
+30,12,Caliandra,7.1
+30,13,Caliandra,8.2
+31,1,Caliandra,11.7
+31,2,Gmelina,17
+31,3,Narra,6.4
+31,4,Narra,12.6
+31,5,Narra,15.5
+31,6,Alnus,18.8
+31,7,Alnus,8.19
+31,8,Alnus,11.5
+31,9,Alnus,9.3
+31,10,Alnus,17.9
+31,11,Alnus,18
+31,12,Alnus,17.8
+31,13,Alnus,20.48
+31,14,Alnus,8.3
+31,15,Alnus,14.6
+31,16,Alnus,17.8
+31,17,Alnus,22.5
+31,18,Alnus,24.5
+31,19,Gmelina,30
+32,1,Gmelina,6.8
+32,2,Gmelina,6.4
+32,3,Gmelina,15.8
+32,4,Gmelina,6.6
+32,5,Gmelina,8.2
+32,6,Gmelina,6.5
+32,7,Gmelina,12.8
+32,8,Gmelina,16
+32,9,Gmelina,6.4
+32,10,Gmelina,6.7
+32,11,Gmelina,7.4
+32,12,Alnus,16.3
+32,13,Alnus,14.4
+33,1,Alnus,7.8
+33,2,Alnus,8.7
+33,3,Alnus,5.6
+33,4,Alnus,5.1
+33,5,Alnus,8.8
+33,6,Alnus,6.7
+33,7,Alnus,7.1
+33,8,Alnus,7.5
+33,9,Alnus,6.4
+33,10,Alnus,10.1
+33,11,Alnus,14.4
+33,12,Alnus,10.4
+33,13,Alnus,11.5
+33,14,Alnus,5.3
+33,15,Alnus,8
+33,16,Alnus,12.8
+33,17,Alnus,7
+34,1,Gmelina,10
+34,2,Gmelina,22.8
+34,3,Gmelina,5.4
+35,1,Gmelina,10.2
+35,2,Benguet Pine,12.4
+35,3,Benguet Pine,14.1
+35,4,Gmelina,8.1
+36,1,Gmelina,18
+37,1,Benguet Pine,17.1
+37,2,Benguet Pine,16.74
+37,3,Benguet Pine,14.1
+37,4,Benguet Pine,14.7
+37,5,Benguet Pine,13.6
+37,6,Benguet Pine,12.8
+37,7,Benguet Pine,6.3
+37,8,Benguet Pine,6.1
+37,9,Benguet Pine,10.8
+37,10,Benguet Pine,17.9
+37,11,Benguet Pine,15.3
+37,12,Benguet Pine,5.7
+37,13,Benguet Pine,17.7
+37,14,Benguet Pine,8.4
+38,1,Benguet Pine,18.2
+38,2,Benguet Pine,24.5
+38,3,Benguet Pine,15
+38,4,Benguet Pine,13.4
+38,5,Benguet Pine,10.7
+38,6,Benguet Pine,12.9
+38,7,Benguet Pine,20.6
+38,8,Benguet Pine,19.9
+38,9,Benguet Pine,12.4
+38,10,Benguet Pine,20.9
+38,11,Benguet Pine,21.3
+38,12,Benguet Pine,23
+38,13,Benguet Pine,11.3
+38,14,Benguet Pine,17.1
+38,15,Benguet Pine,7.4
+38,16,Benguet Pine,13.5
+38,17,Benguet Pine,21.9
+38,18,Benguet Pine,24.8
+38,19,Benguet Pine,14.2
+38,20,Benguet Pine,16.8
+38,21,Benguet Pine,7.2
+38,22,Benguet Pine,11.3
+38,23,Benguet Pine,5.9
+38,24,Benguet Pine,20.1
+38,25,Benguet Pine,13.12
+38,26,Benguet Pine,25.9
+38,27,Benguet Pine,21.8
+39,1,Benguet Pine,9.8
+39,2,Benguet Pine,14.5
+39,3,Benguet Pine,14.7
+40,1,Alnus,6.4
+40,2,Alnus,6
+40,3,Benguet Pine,5.8
+41,1,Alnus,6.2
+41,2,Alnus,5.3
+41,3,Alnus,5.4
+41,4,Alnus,9.3
+41,5,Alnus,7.8
+41,6,Alnus,6.3
+41,7,Alnus,6
+41,8,Alnus,8.5
+42,1,Alnus,5.4
+42,2,Alnus,6.3
+42,3,Alnus,5.8
+43,1,Alnus,5.5
+43,2,Alnus,8.4
+43,3,Alnus,9.7
+43,4,Alnus,8
+43,5,Alnus,10.3
+43,6,Alnus,8.4
+43,7,Alnus,10
+43,8,Alnus,10.3
+43,9,Alnus,6.4
+44,1,Benguet Pine,19.7
+44,2,Benguet Pine,22.4
+44,3,Benguet Pine,22.4
+44,4,Benguet Pine,7.3
+44,5,Benguet Pine,5.8
+44,6,Benguet Pine,20.6
+44,7,Benguet Pine,28.6
+44,8,Benguet Pine,20.7
+45,0,0,

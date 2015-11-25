@@ -1,0 +1,12 @@
+Source,Mg
+Scope1 Fuel,14021.803427031999
+Scope1 Fugitive Emission,4.689450000000001
+
+Scope2 Electricity,236735.03176045802
+
+Scope3 LPG,359.6894509712
+Scope3 Power Rented,207.77444128000002
+Scope3 Air Travel,3.5184520894
+
+Scope4 Land Convertion,<module 'emission_scope4.landConversion' from 'D:\\ERACELIS\\biomass\\emission_scope4\\landConversion.py'>
+Scope4 Forest Fire,27.330078624384235

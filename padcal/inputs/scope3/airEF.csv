@@ -1,0 +1,5 @@
+Airline Travel Distance,code,CO2 EF ,CH4 EF ,N2O EF 
+Long,long,0.185,0.0000104,0.0000085
+Medium Haul (>>_ 300   and  < 700 miles),medium,0.229,0.0000104,0.0000085
+Short Haul (< 300 miles),short,0.277,0.0000104,0.0000085
+Distance not known,unknown,0.271,0.0000104,0.0000085

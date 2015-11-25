@@ -1,0 +1,23 @@
+Ave. biomass of forest (Mg/ha),177.90438195117662
+Age of the forest (years),27
+Mean Annual Increment (Mg/ha/year),6.589051183376911
+Biomass C (Mg/ha/year),2.9650730325196104
+Biomass CO2 e (Mg/ha/year),10.871934452571905
+
+A = area covered ,580.0
+B = Annual Biomass growth/MAI,6.589051183376911
+C = % C  in the biomass,45%
+Annual Carbon Loss due to conversion=  A X B X C,1719.7423588613738
+
+On/Off Site Biomass Burning and Decay 
+Assumptions,C Loss,CO2
+10.0% off site burning of annual loss,171.9742358861374,630.5721982491705
+40.0% on-site burning,687.8969435445496,2522.288792996682
+45.0% decay ,773.8840614876182,2837.5748921212667
+5.0% long terms products,85.9871179430687,315.28609912458523
+TOTAL,1633.7552409183052,5990.4358833671195
+
+Non-CO2 gases/trace gases ,gwp
+CH4 = Total Carbon Released on site burned X Emission Ratio (0.012) x 16/12,25.0,275.1587774178198
+N2O = Total Carbon Released x N/C ratio (0.01) x 44/28,298.0,3221.3231156271904
+,TOTAL,3496.48189304501
